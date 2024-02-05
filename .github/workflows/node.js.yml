@@ -37,7 +37,7 @@ jobs:
 
 
     - name: Build the Docker image
-      run: docker build . --file Dockerfile --tag ${{ vars.DOCKER_USER }}/${{ vars.REPOSITORY }}:$(date +%s)
+      run: docker build . --file Dockerfile --tag ${{ vars.DOCKER_USER }}/${{ vars.REPOSITORY }}:ci-test
           
     - name: Push the Docker image
-      run: docker push my-image-name:$(date +%s)
+      run: docker push my-image-name:ci-test
