@@ -26,7 +26,8 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: '20.x'
-    - run: npm ci
+    - run: npm install
+    # - run: npm ci
     - run: echo ${{ vars.DOCKER_REGISTRY }}
     - run: echo ${{ vars.DOCKER_USER }}
 
