@@ -1,3 +1,11 @@
+## [0.1.2](https://github.com/vunguyen22271/action_ci/compare/v0.1.1...v0.1.2) (2024-02-19)
+
+
+### Bug Fixes
+
+* fix bug 01 ([efb88d1](https://github.com/vunguyen22271/action_ci/commit/efb88d178e68d2e7a9ca3e5ccbcd05ced1246004))
+* fix bug 2 ([81c13ed](https://github.com/vunguyen22271/action_ci/commit/81c13edd631684db7af9dad957af0a3c4485ecf2))
+
 ## [0.1.1](https://github.com/vunguyen22271/action_ci/compare/v0.1.0...v0.1.1) (2024-02-19)
 
 
