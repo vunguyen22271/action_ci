@@ -1,3 +1,18 @@
+# [1.0.0](https://github.com/vunguyen22271/action_ci/compare/v0.1.2...v1.0.0) (2024-02-19)
+
+
+* Merge pull request #7 from vunguyen22271/features/major_change ([333a7a3](https://github.com/vunguyen22271/action_ci/commit/333a7a388d1837dce266e5eeab5a3524ddc1fdc4)), closes [#7](https://github.com/vunguyen22271/action_ci/issues/7)
+
+
+### Features
+
+* add some major change ([5c12dad](https://github.com/vunguyen22271/action_ci/commit/5c12dad4940575434884c606ac9c024f51c9ae95))
+
+
+### BREAKING CHANGES
+
+* some breaking change
+
 ## [0.1.2](https://github.com/vunguyen22271/action_ci/compare/v0.1.1...v0.1.2) (2024-02-19)
 
 
