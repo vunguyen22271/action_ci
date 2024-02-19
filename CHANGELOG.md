@@ -1,3 +1,10 @@
+## [0.1.1](https://github.com/vunguyen22271/action_ci/compare/v0.1.0...v0.1.1) (2024-02-19)
+
+
+### Bug Fixes
+
+* fix some bug 01 ([c69904c](https://github.com/vunguyen22271/action_ci/commit/c69904ce213d201a634950666ec47166d6731501))
+
 # [0.1.0](https://github.com/vunguyen22271/action_ci/compare/v0.0.2...v0.1.0) (2024-02-19)
 
 
